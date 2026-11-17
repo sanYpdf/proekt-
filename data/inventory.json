@@ -1,0 +1,12 @@
+[
+  {"inventory_number":"PC-001","type":"ПК","name":"Компьютер преподавателя","room":"101","condition":"исправно","acquisition_date":"2023-09-01","responsible_person":"Иванова Н. П."},
+  {"inventory_number":"PC-002","type":"ПК","name":"Рабочая станция 1","room":"101","condition":"исправно","acquisition_date":"2023-09-01","responsible_person":"Иванова Н. П."},
+  {"inventory_number":"PC-003","type":"ПК","name":"Рабочая станция 2","room":"101","condition":"требует ремонта","acquisition_date":"2022-02-14","responsible_person":"Иванова Н. П."},
+  {"inventory_number":"PC-004","type":"ПК","name":"Рабочая станция 3","room":"102","condition":"исправно","acquisition_date":"2021-11-20","responsible_person":"Петров А. С."},
+  {"inventory_number":"PC-005","type":"ПК","name":"Рабочая станция 4","room":"102","condition":"исправно","acquisition_date":"2021-11-20","responsible_person":"Петров А. С."},
+  {"inventory_number":"MON-001","type":"Монитор","name":"Монитор 24 дюйма","room":"101","condition":"исправно","acquisition_date":"2023-09-01","responsible_person":"Иванова Н. П."},
+  {"inventory_number":"MON-002","type":"Монитор","name":"Монитор 22 дюйма","room":"102","condition":"требует ремонта","acquisition_date":"2020-05-12","responsible_person":"Петров А. С."},
+  {"inventory_number":"PR-001","type":"Принтер","name":"Лазерный принтер","room":"101","condition":"исправно","acquisition_date":"2022-08-30","responsible_person":"Иванова Н. П."},
+  {"inventory_number":"SW-001","type":"Коммутатор","name":"Сетевой коммутатор 24 порта","room":"102","condition":"исправно","acquisition_date":"2021-03-15","responsible_person":"Петров А. С."},
+  {"inventory_number":"PC-006","type":"ПК","name":"Системный блок","room":"103","condition":"списано","acquisition_date":"2018-09-01","responsible_person":"Сидоров И. В."}
+]
